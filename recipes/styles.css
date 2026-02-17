@@ -24,4 +24,19 @@ img{
 
 ul li{
     display: block;
+    background: #c2fcca;
+    font-family: "Times New Roman";
+}
+
+ol li{
+    background: #c2fcca;
+    font-family: "Times New Roman";
+}
+
+h2{
+    background: #c7ffd8;
+}
+
+p{
+    background: #c2fcca;
 }
