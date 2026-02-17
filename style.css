@@ -1,0 +1,46 @@
+body{
+    background: #eee;
+    font-family: sans-serif;
+    
+}
+
+.heading{
+    text-align: center;
+    background: #adffc3;
+    margin: 16px auto;
+    padding: 8px;
+    color: darkslategray;
+}
+
+.lists{
+    background:#e8faea;
+    text-align: center;
+}
+
+.Goan{
+      margin-bottom: 8px;
+      padding: 16px 8px;
+      background-color: #c7ffd8;
+      display: block;
+      margin-right: 40px;
+      margin-left: auto
+      
+}
+
+.Chinese{
+    margin-bottom: 8px;
+    padding: 16px 8px;
+    background-color: #c7ffd8;
+    display: block;
+    margin-right: 40px;
+    margin-left: auto
+}
+
+.Noodles{
+    margin-bottom: 8px;
+    padding: 16px 8px;
+    background-color: #c7ffd8;
+    display: block;
+    margin-right: 40px;
+    margin-left: auto
+}
