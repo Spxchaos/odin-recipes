@@ -26,11 +26,13 @@ ul li{
     display: block;
     background: #c2fcca;
     font-family: "Times New Roman";
+    margin-right: 40px;
 }
 
 ol li{
     background: #c2fcca;
     font-family: "Times New Roman";
+    margin-right: 40px;
 }
 
 h2{
