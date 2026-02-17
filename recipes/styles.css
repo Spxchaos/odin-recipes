@@ -1,0 +1,27 @@
+body{
+    background: #eee;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    background: #adffc3;
+    margin: 16px auto;
+    padding: 8px;
+    color: darkslategray;
+}
+
+img{
+    border-radius: 8px;/*to round the border of images*/
+}
+
+.homepage{
+    display: block;
+    text-align: center;
+}
+
+ul li{
+    display: block;
+}
