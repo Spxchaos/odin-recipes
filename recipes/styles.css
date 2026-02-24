@@ -42,3 +42,7 @@ h2{
 p{
     background: #c2fcca;
 }
+
+a{
+    text-decoration: none;
+}
